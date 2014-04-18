@@ -1,6 +1,6 @@
 # Bower
 
-[![Build Status](https://secure.travis-ci.org/bower/bower.svg?branch=master)](http://travis-ci.org/bower/bower)
+[![Build Status](https://secure.travis-ci.org/bower/bower.svg?branch=master)](http://travis-ci.org/bower/bower) [![Coverage Status](https://coveralls.io/repos/bower/bower/badge.png?branch=feature%2Fintegration)](https://coveralls.io/r/bower/bower?branch=feature%2Fintegration)
 
 <img align="right" height="300" src="http://bower.io/img/bower-logo.png">
 
