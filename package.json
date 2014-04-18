@@ -73,7 +73,8 @@
     "istanbul": "~0.2.4",
     "proxyquire": "~0.5.3",
     "load-grunt-tasks": "~0.3.0",
-    "coveralls": "~2.10.0"
+    "coveralls": "~2.10.0",
+    "node-uuid": "~1.4.1"
   },
   "scripts": {
     "test": "grunt test"
