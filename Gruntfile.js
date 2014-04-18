@@ -7,7 +7,7 @@ module.exports = function (grunt) {
             options: {
                 jshintrc: '.jshintrc'
             },
-            files: ['Gruntfile.js', 'bin/*', 'lib/**/*.js', 'test/**/*.js', '!test/assets/**/*', '!test/reports/**/*']
+            files: ['Gruntfile.js', 'bin/*', 'lib/**/*.js', 'test/**/*.js', '!test/assets/**/*', '!test/reports/**/*', '!test/tmp/**/*']
         },
         simplemocha: {
             options: {
